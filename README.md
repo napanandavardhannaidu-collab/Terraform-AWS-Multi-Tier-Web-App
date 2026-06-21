@@ -400,7 +400,7 @@ This architecture follows a production-style design where only the Load Balancer
 
 ## Deployment Steps
 ### Clone Repository
-    git clone <repository-url>
+    git clone https://github.com/napanandavardhannaidu-collab/Terraform-AWS-Multi-Tier-Web-App.git
     cd terraform-multi-tier-app
 ### Initialize Terraform
     terraform init
