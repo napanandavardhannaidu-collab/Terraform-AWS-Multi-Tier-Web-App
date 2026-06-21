@@ -413,3 +413,39 @@ This architecture follows a production-style design where only the Load Balancer
 ### Destroy Infrastructure
     terraform destroy
 
+# Outputs
+
+After deployment Terraform provides:
+
+ALB DNS Name
+EC2 Instance ID
+RDS Endpoint
+VPC ID
+## Learning Outcomes
+
+Through this project I learned:
+
+    Infrastructure as Code (IaC)
+    AWS Networking Fundamentals
+    VPC Design
+    Load Balancer Configuration
+    Security Group Management
+    Database Deployment with RDS
+    Terraform Modules and Resource Dependencies
+    Production-style AWS Architecture
+##  Future Improvements
+    Auto Scaling Group
+    Multi-AZ RDS
+    Terraform Modules
+    CloudWatch Monitoring
+    Route53 Domain Integration
+    SSL/TLS using ACM
+    CI/CD Pipeline with GitHub Actions
+## Author
+
+Nanda
+
+DevOps & Cloud Engineering Student
+
+AWS | Terraform | Linux | Git | CI/CD
+
